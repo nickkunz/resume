@@ -1,0 +1,12 @@
+## vs code
+.vscode
+
+## core files
+*.aux
+*.fls
+*.log
+*.out
+
+## build tools
+*.fdb_latexmk
+*.synctex.gz

@@ -1,2 +1,2 @@
-# resume
-Resume
+# Resume
+Updated: Sept 2021
