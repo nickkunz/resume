@@ -1,2 +1,2 @@
 ## Resume
-_Updated: July 2023_
+_Updated: March 2024_
